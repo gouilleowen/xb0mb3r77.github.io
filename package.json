@@ -2,6 +2,7 @@
   "name": "frosti",
   "type": "module",
   "version": "2.8.1",
+  "packageManager": "pnpm@latest",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
