@@ -3,18 +3,18 @@
 
 // Site title and description
 export const SITE_LANG = "en";
-export const SITE_TAB = "Frosti";
-export const SITE_TITLE = "Frosti 🧊";
+export const SITE_TAB = "Owen's Portfolio";
+export const SITE_TITLE = "Owen's Portfolio";
 export const SITE_DESCRIPTION = "A blog template";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
-export const USER_SITE = "https://frosti.saroprock.com"
-export const USER_AVATAR = "/profile.webp";
+export const USER_NAME = "xb0mb3r77";
+export const USER_SITE = "https://xb0mb3r77.github.io"
+export const USER_AVATAR = "https://avatars.githubusercontent.com/u/58049638?v=4";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://xb0mb3r77.github.io";
 
 // Theme settings
 export const DAISYUI_THEME = {
