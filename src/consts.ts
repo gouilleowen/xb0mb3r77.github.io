@@ -2,19 +2,19 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Site title and description
-export const SITE_LANG = "en";
+export const SITE_LANG = "fr";
 export const SITE_TAB = "Owen's Portfolio";
 export const SITE_TITLE = "Owen's Portfolio";
 export const SITE_DESCRIPTION = "A blog template";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "xb0mb3r77";
-export const USER_SITE = "https://xb0mb3r77.github.io"
+export const USER_NAME = "gouilleowen";
+export const USER_SITE = "https://gouilleowen.github.io"
 export const USER_AVATAR = "https://avatars.githubusercontent.com/u/58049638?v=4";
 
 // Server and transition settings
-export const SERVER_URL = "https://xb0mb3r77.github.io";
+export const SERVER_URL = "https://gouilleowen.github.io";
 
 // Theme settings
 export const DAISYUI_THEME = {
