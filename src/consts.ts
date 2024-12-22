@@ -10,7 +10,7 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
 export const USER_NAME = "gouilleowen";
-export const USER_SITE = "https://gouilleowen.github.io"
+export const USER_SITE = "https://github.com/gouilleowen"
 export const USER_AVATAR = "https://avatars.githubusercontent.com/u/58049638?v=4";
 
 // Server and transition settings
